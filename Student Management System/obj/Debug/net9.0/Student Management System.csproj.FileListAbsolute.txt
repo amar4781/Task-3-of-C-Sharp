@@ -1,0 +1,14 @@
+C:\Users\Amar\source\repos\Student Management System\Student Management System\bin\Debug\net9.0\Student Management System.exe
+C:\Users\Amar\source\repos\Student Management System\Student Management System\bin\Debug\net9.0\Student Management System.deps.json
+C:\Users\Amar\source\repos\Student Management System\Student Management System\bin\Debug\net9.0\Student Management System.runtimeconfig.json
+C:\Users\Amar\source\repos\Student Management System\Student Management System\bin\Debug\net9.0\Student Management System.dll
+C:\Users\Amar\source\repos\Student Management System\Student Management System\bin\Debug\net9.0\Student Management System.pdb
+C:\Users\Amar\source\repos\Student Management System\Student Management System\obj\Debug\net9.0\Student Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amar\source\repos\Student Management System\Student Management System\obj\Debug\net9.0\Student Management System.AssemblyInfoInputs.cache
+C:\Users\Amar\source\repos\Student Management System\Student Management System\obj\Debug\net9.0\Student Management System.AssemblyInfo.cs
+C:\Users\Amar\source\repos\Student Management System\Student Management System\obj\Debug\net9.0\Student Management System.csproj.CoreCompileInputs.cache
+C:\Users\Amar\source\repos\Student Management System\Student Management System\obj\Debug\net9.0\Student Management System.dll
+C:\Users\Amar\source\repos\Student Management System\Student Management System\obj\Debug\net9.0\refint\Student Management System.dll
+C:\Users\Amar\source\repos\Student Management System\Student Management System\obj\Debug\net9.0\Student Management System.pdb
+C:\Users\Amar\source\repos\Student Management System\Student Management System\obj\Debug\net9.0\Student Management System.genruntimeconfig.cache
+C:\Users\Amar\source\repos\Student Management System\Student Management System\obj\Debug\net9.0\ref\Student Management System.dll
